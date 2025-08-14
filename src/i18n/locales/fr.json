@@ -1,0 +1,172 @@
+{
+  "header": {
+    "brand": "Maalem",
+    "nav": {
+      "home": "Accueil",
+      "search": "Recherche",
+      "contact": "Contact",
+      "login": "Connexion",
+      "signup": "Inscription"
+    }
+  },
+  "hero": {
+    "title": "Trouvez le Maalem parfait",
+    "subtitle": "Connectez-vous avec les meilleurs artisans du Maroc. Plombiers, électriciens, menuisiers... tous vérifiés et notés par la communauté.",
+    "searchPlaceholder": "Que recherchez-vous ? (ex: plombier, électricien...)",
+    "searchButton": "Rechercher",
+    "suggestions": "Suggestions :",
+    "suggestion1": "Plombier urgence",
+    "suggestion2": "Électricien Casablanca",
+    "suggestion3": "Peintre intérieur",
+    "suggestion4": "Menuisier sur mesure"
+  },
+  "stats": {
+    "verified": "Maalems vérifiés",
+    "interventions": "Interventions",
+    "rating": "Note moyenne",
+    "support": "Support client",
+    "availability": "Disponible dans tout le Maroc"
+  },
+  "services": {
+    "title": "Nos Services",
+    "subtitle": "Découvrez tous les services disponibles avec nos artisans qualifiés",
+    "maalems": "maalems",
+    "plumbing": {
+      "title": "Plomberie",
+      "description": "Réparations, installations sanitaires",
+      "link": "Voir tous les plomberie"
+    },
+    "electricity": {
+      "title": "Électricité",
+      "description": "Installations, dépannages électriques",
+      "link": "Voir tous les électricité"
+    },
+    "carpentry": {
+      "title": "Menuiserie",
+      "description": "Meubles sur mesure, réparations",
+      "link": "Voir tous les menuiserie"
+    },
+    "painting": {
+      "title": "Peinture",
+      "description": "Peinture intérieure et extérieure",
+      "link": "Voir tous les peinture"
+    },
+    "cleaning": {
+      "title": "Nettoyage",
+      "description": "Nettoyage résidentiel et commercial",
+      "link": "Voir tous les nettoyage"
+    },
+    "repair": {
+      "title": "Réparation",
+      "description": "Réparations diverses et maintenance",
+      "link": "Voir tous les réparation"
+    },
+    "viewAll": "Voir tous les services"
+  },
+  "howItWorks": {
+    "title": "Comment ça marche ?",
+    "subtitle": "Trouvez et contactez un artisan qualifié en 3 étapes simples",
+    "step1": {
+      "title": "Recherchez",
+      "description": "Décrivez votre besoin et trouvez les maalems qualifiés près de chez vous"
+    },
+    "step2": {
+      "title": "Comparez",
+      "description": "Consultez les profils, avis clients et tarifs pour faire le bon choix"
+    },
+    "step3": {
+      "title": "Contactez",
+      "description": "Contactez directement le maalem et planifiez votre intervention"
+    },
+    "cta": {
+      "title": "Prêt à commencer ?",
+      "subtitle": "Rejoignez des milliers de clients satisfaits qui font confiance à Maalem",
+      "button": "Commencer maintenant"
+    }
+  },
+  "featured": {
+    "title": "Maalems en vedette",
+    "subtitle": "Découvrez nos artisans les mieux notés et les plus expérimentés",
+    "reviews": "avis",
+    "experience": "ans d'exp.",
+    "respondsIn": "Répond en",
+    "services": "Services :",
+    "from": "À partir de",
+    "contact": "Contacter",
+    "available": "Disponible",
+    "busy": "Occupé",
+    "viewAll": "Voir tous les maalems",
+    "profiles": {
+      "mohammed": {
+        "name": "Mohammed El Fassi",
+        "specialty": "Plomberie",
+        "location": "Casablanca, Maarif",
+        "responseTime": "< 30 min",
+        "service1": "Réparation de fuites",
+        "service2": "Installation WC",
+        "otherServices": "+2 autres"
+      },
+      "youssef": {
+        "name": "Youssef Benali",
+        "specialty": "Électricité",
+        "location": "Rabat, Agdal",
+        "responseTime": "< 1h",
+        "service1": "Installation électrique",
+        "service2": "Réparation panne",
+        "otherServices": "+2 autres"
+      },
+      "abdellah": {
+        "name": "Abdellah Lahlou",
+        "specialty": "Menuiserie",
+        "location": "Marrakech, Gueliz",
+        "responseTime": "< 2h",
+        "service1": "Meubles sur mesure",
+        "service2": "Réparation portes",
+        "otherServices": "+2 autres"
+      }
+    }
+  },
+  "whyChoose": {
+    "title": "Pourquoi choisir Maalem ?",
+    "subtitle": "Nous vous offrons la meilleure expérience pour trouver des artisans de confiance",
+    "verified": {
+      "title": "Maalems Vérifiés",
+      "description": "Tous nos artisans sont vérifiés et certifiés pour garantir la qualité"
+    },
+    "fast": {
+      "title": "Interventions Rapides",
+      "description": "Trouvez un maalem disponible en moins de 30 minutes"
+    },
+    "satisfaction": {
+      "title": "Satisfaction Garantie",
+      "description": "Plus de 95% de nos clients recommandent nos services"
+    },
+    "support": {
+      "title": "Support 24/7",
+      "description": "Notre équipe vous accompagne à tout moment"
+    }
+  },
+  "testimonial": {
+    "text": "Maalem m'a permis de trouver rapidement un excellent plombier. Le service était professionnel et le prix très correct. Je recommande vivement !",
+    "author": "Sarah Alami",
+    "role": "Cliente depuis 2023",
+    "label": "Client satisfait"
+  },
+  "footer": {
+    "description": "La plateforme qui connecte les clients avec les meilleurs artisans du Maroc. Trouvez rapidement un professionnel qualifié près de chez vous.",
+    "services": "Services",
+    "company": "Entreprise",
+    "about": "À propos",
+    "privacy": "Confidentialité",
+    "terms": "Conditions",
+    "help": "Aide",
+    "phone": "+212 5 22 00 00 00",
+    "email": "contact@maalem.ma",
+    "address": "Casablanca, Maroc",
+    "rights": "© 2024 Maalem. Tous droits réservés."
+  },
+  "language": {
+    "french": "Français",
+    "arabic": "العربية"
+  }
+}
